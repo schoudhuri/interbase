@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="interclient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../software/interbase/InterbaseJdbcDriver/interclient.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jdbc2_0-stdext.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
